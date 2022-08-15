@@ -1,0 +1,1 @@
+# The purpose of the repository is just to study how to perform a pull request.
